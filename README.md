@@ -1,3 +1,3 @@
 # Ejercicio_1
 
-file:///C:/Users/PC/Desktop/pagina%20web/index.html
+https://rodrigovidalguzmandiaz.github.io/Ejercicio_1/
