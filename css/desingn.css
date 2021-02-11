@@ -1,0 +1,55 @@
+/*SELECTOR*/ /*PARA COLOCAR PROPIEDADES*/
+.titulo_1{
+    color: aqua; /*PARA CAMBIER DE COLOR EL TEXTO*/ 
+    text-align: center;/*CENTRA EL TEXTO*/
+    font-size: 40px;/*AJUSTAR EL TAMAÑO DEL TEXTO*/
+    font-family: sans-serif;/*MODIFICAR EL TIPO DE LETRA DEL TEXTO*/ 
+}
+.img_fruta{
+    width: 200px;
+    border: 5px solid red;
+    border-radius: 50px;
+    
+}
+p{
+    color: cadetblue;
+    text-align: inherit;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 15px 15px 15px 15px;
+    
+}
+.lista{
+    font-family: monospace;
+    color: darksalmon;
+    font-size:18px;
+    text-align: inherit;
+}
+li{
+    font-family: serif;
+    color: fuchsia;
+    text-align: inherit;
+    font-size: 20px;
+}
+tr{
+    border: 100px;
+    color:crimson;
+    
+}
+.tabla{
+    width: 200px;
+    border: 20px;
+    border-color: black;
+    border-bottom-style: inherit;
+}
+td{
+
+    border-color: black;
+}
+.segundo{
+    color: cadetblue;
+    text-align: inherit;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 15px 15px 15px 15px;
+}
