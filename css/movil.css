@@ -2,11 +2,13 @@
     max-width: 375px;
     padding: 2rem;
 }
-
-/* -----------------*/
-.bg-color-section-ram{
-    background-color: #F2F4F4;
+.section-body{
+    width: 130rem;
+    height: auto;
+    margin: auto;
 }
+/* -----------------*/
+
 .section-ram{
     display: flex;
     flex-direction: column;
