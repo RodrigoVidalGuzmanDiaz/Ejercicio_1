@@ -59,7 +59,7 @@
 
 .section-movil__titulo{
     text-align: center;
-    font-size: 2.4rem;
+    font-size: var(--h2);
     margin-top: 1.5rem;
     font-family: 'Roboto', sans-serif;
 }
