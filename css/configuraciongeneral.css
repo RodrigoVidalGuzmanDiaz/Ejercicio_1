@@ -14,7 +14,7 @@ p{
 :root{
     /* variables de color*/
     --rojo: red;
-    --verde: green;
+    --verde: rgb(176, 221, 176);
     --amarillo: #F7E914;
     --gris: #C4C4C4;
     --texto: black;
